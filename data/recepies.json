@@ -1,0 +1,474 @@
+[
+    {
+        "categorys":{
+            "categoryId":1
+        },
+        "recepieName":"Perfect Steel Cut Oats",
+        "img": {
+            "src":"assets/img/food/Steel-Cut-Oats-700-4583.jpg",
+            "alt" :"Perfect Steel Cut Oats"
+        },
+        "shortDescription":"Learn how to make perfect steel cut oats that are creamy and flavorful, and never mushy. This steel cut oatmeal is a healthy, hearty breakfast that you can make ahead.",
+        "ingredients":["3 cups water","1 cup almond milk or other milk or water",
+            " 1 cup steel cut oats"," 1/8 teaspoon salt"," 1/2 teaspoon vanilla extract", 
+            "1 teaspoon pure maple syrup or to taste"," 1/4 teaspoon cinnamon"],
+        "instructions":["Pour the water and milk (if using) into a medium saucepan. Bring to a boil over medium-high heat."," Add the oats and salt to the pan, stir, and reduce the heat to a low simmer.","Cook for 20-30 minutes, stirring often, until the oats are your desired texture."," Cook for 20-25 minutes for oats with more chewy texture; cook longer for softer oats, adding more liquid as needed.","Remove from the heat and stir in the vanilla, maple syrup and cinnamon.", "Add toppings as desired (see ideas in the post above)."
+        ],
+        "idO" : "moreOats",
+        "button": {
+            "id":"btnOats",
+            "name":"btnOats",
+            "class":"btnMore",
+            "value":"More.."
+        }
+    },
+    {
+        "categorys":{
+            "categoryId":1
+        },
+        "recepieName":"Healthy Pumpkin Waffles",
+        "img": {
+            "src":"assets/img/food/pumpkin-waffles.jpg",
+            "alt" :"Healthy Pumpkin Waffles"
+        },
+        "shortDescription":"Healthy pumpkin waffles from scratch are so easy to make in just one bowl. This recipe for homemade whole wheat pumpkin waffles is the best cozy fall breakfast.",
+        "ingredients":["2 tablespoons unsalted butter", "1 cup pure pumpkin puree canned or homemade (not pumpkin pie filling)"," 3 large eggs", "2 tablespoons pure maple syrup or honey"," 1 teaspoon vanilla extract"," 2 3/4 cups milk"," 2 teaspoons ground cinnamon"," 1 teaspoon allspice"," 1/2 teaspoon ground nutmeg", "1/4 teaspoon ground cloves"," 2 teaspoons baking powder"," 1 teaspoon baking soda"," 1/2 teaspoon salt"," 2 1/2 cups white whole wheat flour"],
+        "instructions":["Preheat waffle iron.","Place the butter in a large bowl and heat in the microwave to melt the butter.",
+            "Add the pumpkin puree and whisk to combine.", "Add the eggs, maple syrup or honey and vanilla and whisk to combine.",
+            "Whisk in the milk.", "Add the cinnamon, allspice, nutmeg, cloves, baking powder, baking soda and salt. Whisk until well combined.",
+            "Whisk in the white whole wheat flour.", "Cook waffles in greased, preheated waffle iron according to manufacturer's instructions. Mine take about 6 minutes per waffle.",
+            "Waffles freeze well. Transfer extra cooked waffles to a wire rack to cool. Once cool, store waffles in a zip-top bag in the freezer for up to 3 months. Defrost and then gently warm/crisp in a toaster or oven on low heat."
+        ],
+        "idO" : "morePumpkin",
+        "button": {
+            "id":"pumpkinMafins",
+            "name":"pumpkinMafins",
+            "class":"btnMorePumpkinMafins btnMore",
+            "value":"More.."
+        }
+    },
+    {
+        "categorys":{
+            "categoryId":1
+        },
+        "recepieName":"Cranberry Orange Muffins",
+        "img": {
+            "src":"assets/img/food/cranberry-orange-muffins.jpg",
+            "alt" :"Cranberry Orange Muffins"
+        },
+        "shortDescription":"These cranberry orange muffins are bursting with cranberries in every bite. This healthy muffin recipe is easy to make in one bowl!",
+        "ingredients":["6 tablespoons unsalted butter", "1/2 cup honey or pure maple syrup",
+            "zest of 1 orange","1/4 cup orange juice","3/4 cup milk dairy, almond, etc.",
+            "2 eggs", "2 teaspoons vanilla extract","1 teaspoon baking soda",
+            "1/2 teaspoon baking powder","1/2 teaspoon salt","1/4 teaspoon cinnamon",
+            "2 cups white whole wheat flour","1 1/2 cups cranberries fresh or frozen (do not thaw), coarsely chopped if desired",
+            "turbinado sugar optional"
+        ],
+        "instructions":["Preheat oven to 350 degrees F. Spray a muffin pan with nonstick spray (or use paper or parchment liners).",
+            "Melt the butter in a large bowl in the microwave. (Or melt the butter in a pan on the stove and transfer to a large bowl.)",
+            "Add the honey, orange zest, orange juice, milk, eggs and vanilla. Whisk until well combined.",
+            "Add the baking soda, baking powder, salt and cinnamon and whisk until fully incorporated.",
+            "Add the white whole wheat flour and stir gently with a rubber spatula until almost combined. Fold in the cranberries, reserving a few for the tops of the muffins if desired.",
+            "Spoon the batter into the muffin pan. Press any reserved cranberries into the tops of the muffins. Sprinkle with turbinado sugar, if desired.",
+            "Bake muffins for 16-18 minutes, until a tester inserted into the center of a muffin comes out with just a few moist crumbs attached.",
+            "Let muffins cool in the pan for 10 minutes and then remove to a wire rack. Serve warm.",
+            "Extra muffins can be stored airtight at room temperature for up to 3 days or in the freezer for up to 3 months."
+        ],
+        "notes":[{
+            "note1":"You can make mini muffins in a mini muffin pan. Bake for 10-12 minutes."
+             }
+        ],
+        "idO" : "moreMafins",
+        "button": {
+            "id":"orangeMafins",
+            "name":"orangeMafins",
+            "class":"btnMoreOrangeMafins btnMore",
+            "value":"More.."
+        }
+    },
+    {
+        "categorys":{
+            "categoryId":1
+        },
+        "recepieName":"Blueberry Spinach Breakfast Smoothie",
+        "img": {
+            "src":"assets/img/food/blueberry-spinach-breakfast-smoothie.jpg",
+            "alt" :"Blueberry Spinach Breakfast Smoothie"
+        },
+        "shortDescription":"Start your day with this healthy blueberry smoothie and get in some greens, fruit, oats, and protein-rich yogurt first thing!",
+        "ingredients":["3 tablespoons old-fashioned oats",
+            "1 cup fresh spinach", "1 cup frozen blueberries",
+            "1/3 cup plain Greek yogurt", "¾ cup milk (whichever type you prefer)",
+            "1/8 teaspoon cinnamon (optional)"
+        ],
+        "instructions":["Place all ingredients in a blender and blend until smooth. (I like to use my Vitamix blender for a smoother smoothie, affiliate link.) Serve immediately."
+        ],
+        "idO" : "moreBlueberry",
+        "button": {
+            "id":"bluberrySpinach",
+            "name":"bluberrySpinach",
+            "class":"btnMoreBluberrySpinach btnMore",
+            "value":"More.."
+        }
+    },
+    {
+        "categorys":{
+            "categoryId":1
+        },
+        "recepieName":"Easy Broccoli Cheese Quiche ",
+        "img": {
+            "src":"assets/img/food/broccoli-cheese-quiche.jpg",
+            "alt" :"Easy Broccoli Cheese Quiche"
+        },
+        "shortDescription":"An easy broccoli cheese quiche recipe, made with just 5 ingredients! This broccoli cheddar quiche is a family favorite for dinner, breakfast or lunch!",
+        "ingredients":["2 cups broccoli florets about ½ pound",
+            "5 large eggs", "¾ cup milk I used whole milk",
+            "½ teaspoon salt", "¼ teaspoon pepper", "1 cup shredded cheddar cheese",
+            "1 9-inch whole wheat pie crust"
+        ],
+        "instructions":["Preheat oven to 375 degrees F.",
+            "Roll out pie crust, if not already shaped, and chill until ready to use.",
+            "Place 1-2 cups water in the bottom of a small pot. Add the broccoli, cover, and bring to a boil. Cook the broccoli until crisp-tender, about 4 minutes. Transfer broccoli to a colander, rinse with cool water, and drain. Chop broccoli into small pieces.",
+            "In a large bowl, whisk together the eggs, milk, salt and pepper. Stir in the chopped broccoli and cheddar cheese. Pour into the prepared pie shell.",
+            "Bake quiche for 35-40 minutes, until eggs are set in the center. Check on quiche starting at 25 minutes and tent with foil if crust is browning too quickly.",
+            "Let stand for 5 minutes before serving."
+        ],
+        "notes":[{
+            "note1":"Leftover slices of quiche reheat well in the microwave."
+             }
+        ],
+        "idO" : "moreBCheese",
+        "button": {
+            "id":"broccoliCheese",
+            "name":"broccoliCheese",
+            "class":"btnMoreBroccoliCheese btnMore",
+            "value":"More.."
+        }
+    },
+    {
+        "categorys":{
+            "categoryId":3
+        },
+        "recepieName":"Creamy Avocado Vegetable Burritos",
+        "img": {
+            "src":"assets/img/food/avocado-burritos.jpg",
+            "alt" :"Creamy Avocado Vegetable Burritos"
+        },
+        "shortDescription":"These Creamy Avocado Vegetable Burritos are a favorite quick and easy vegetarian meal!",
+        "ingredients":["1 tablespoon olive oil", "2 bell peppers (any color), thinly sliced into strips",
+            "1 onion, thinly sliced", "salt and pepper", "½ cup plain Greek yogurt", "juice of half a lime", 
+            "¼ teaspoon chili powder", "2 tablespoons chopped cilantro", "15 ounce can pinto beans, rinsed and drained", 
+            "4 large whole wheat tortillas", "1 cup grated Monterey jack cheese", "2 small or 1 large avocado, peeled, pitted and chopped"
+        ],
+        "instructions":["Heat the olive oil in a large skillet over medium heat. Add the bell peppers and onion and cook, stirring occasionally, until softened. Season with salt and pepper to taste.", 
+            "Meanwhile, whisk together Greek yogurt, lime juice, chili powder, and cilantro in a small bowl.",
+            "Warm the beans for a few minutes in a small saucepan over low heat. Warm the tortillas between paper towels in the microwave.", 
+            "To assemble the burritos, spread ¼ of the yogurt mixture down the center of each tortilla. Top with peppers and onions, beans, cheese and avocado. Fold up burritos and serve."
+        ],
+        "idO" : "moreAvocao",
+        "button": {
+            "id":"creamyAvocado",
+            "name":"creamyAvocado",
+            "class":"btnMoreCreamyAvocado btnMore",
+            "value":"More.."
+        }
+    }, 
+    {
+        "categorys":{
+            "categoryId":3
+        },
+        "recepieName":"Spinach Pesto and Tomato Flatbread Pizzas",
+        "img": {
+            "src":"assets/img/food/spinach-pesto-and-tomato-pizza.jpg",
+            "alt" :"Spinach Pesto and Tomato Flatbread Pizzas"
+        },
+        "shortDescription":"These Spinach Pesto and Tomato Flatbread Pizzas with a crispy flatbread crust are a 30 minute meal from start to finish!",
+        "ingredients":["3 cups loosely packed spinach", "1 clove garlic", "½ cup walnuts or pine nuts", 
+            "⅓ cup freshly grated Parmesan cheese", "¼ teaspoon Kosher salt", "⅛ teaspoon black pepper", 
+            "¼ cup extra virgin olive oil", "4 whole grain lavash or other flatbread (I used two 8x10-inch rectangular lavash)*", 
+            "1 cup fresh baby spinach, coarsely chopped", "1½ cups grated mozzarella cheese", "8 ounces cherry tomatoes, halved", 
+            "¼ cup grated Parmesan cheese", "2 tablespoons pine nuts"
+        ],
+        "instructions":["Preheat oven to 425 degrees F.", "Place all pesto ingredients except olive oil in the bowl of a food processor. Process until finely chopped. With the processor running, add the oil in a steady stream through the feed tube and process until well combined, scraping down the sides of the bowl as necessary.", 
+            "Place lavash on parchment-lined baking sheet. Spread with pesto sauce. Sprinkle on chopped spinach and mozzarella cheese. Top with tomatoes, grated Parmesan, and pine nuts.", 
+            "Bake pizzas for 8-9 minutes, until cheese and flatbread are lightly golden. If you are using more than one pan, rotate halfway through baking time."
+        ],
+        "idO" : "morePasto",
+        "button": {
+            "id":"spinachPasto",
+            "name":"spinachPasto",
+            "class":"btnMoreSpinachPasto btnMore",
+            "value":"More.."
+        }
+    }, 
+    {
+        "categorys":{
+            "categoryId":3
+        },
+        "recepieName":"Sweet Potato Noodles with Peanut Sauce",
+        "img": {
+            "src":"assets/img/food/sweet-potato-noodles.jpg",
+            "alt" :"Sweet Potato Noodles with Peanut Sauce"
+        },
+        "shortDescription":"30 minute sweet potato noodles with a spicy peanut sauce and chickpeas. An easy and healthy dinner recipe that's vegan and gluten free.",
+        "ingredients":["½ cup creamy peanut butter (I used natural)", "5 tablespoons lime juice (about 2 large limes)", "¼ cup low sodium soy sauce (look for gluten free if needed)", 
+            "2 teaspoons minced fresh ginger", "3 cloves garlic, minced", "½ teaspoon crushed red pepper flakes (more or less to taste)",
+            "4 medium sweet potatoes", "1 tablespoon extra virgin olive oil", "15 ounce can chickpeas, rinsed and drained", 
+            "4 green onions, sliced", "¼ cup peanuts"
+        ],
+        "instructions":["In a medium bowl, whisk together all sauce ingredients.", "Scrub, peel, and spiralize the sweet potatoes.", 
+            "In a large skillet or dutch oven, heat olive oil over medium heat. Add sweet potatoes and cook, stirring occasionally, 5-7 minutes, until softened. Add chickpeas and cook, stirring, 2 minutes. Stir in peanut sauce and cook for 1 minute. Remove from heat.",
+            "Divide noodles and chickpeas between four plates; top with green onions and peanuts and serve.", "Leftovers reheat well for lunch the next day."
+        ],
+        "idO" : "morePotato",
+        "button": {
+            "id":"sweetPotato",
+            "name":"sweetPotato",
+            "class":"btnMoreSweetPotatoo btnMore",
+            "value":"More.."
+        }
+    }, 
+    {
+        "categorys":{
+            "categoryId":3
+        },
+        "recepieName":"Tortellini with Spinach, Onion, and Pine Nuts",
+        "img": {
+            "src":"assets/img/food/Tortellini-with-Spinach-Onion-and-Pine-Nuts.jpg",
+            "alt" :"Tortellini with Spinach, Onion, and Pine Nuts"
+        },
+        "shortDescription":"This simple pasta dish is full of cheesy tortellini, healthy spinach, and crunchy pine nuts. It's a delicious easy lunch, and is also great as a cold pasta salad.",
+        "ingredients":["1 package fresh tortellini, such as Buitoni brand", "¼ cup pine nuts", 
+            "extra virgin olive oil", "½ red onion, thinly sliced", "1 clove garlic, minced", 
+            "1 bag washed baby spinach", "⅓ cup Parmesan cheese, grated", "salt and pepper to taste"
+        ],
+        "instructions":["Set a large pot of water to boil. When the water is boiling, add the tortellini and cook according to package directions. Drain and set aside.", "Add the baking soda, baking powder, salt and cinnamon and whisk until fully incorporated.",
+            "Meanwhile, toast the pine nuts by placing them in a small skillet over medium-low heat. Stir occasionally and watch them closely so they don't burn. They will take only a few minutes to toast; you'll know they're done when you begin to smell them and they are just lightly brown.",
+            "Heat 2 teaspoons olive oil in a skillet over medium heat. Add the onion and saute, stirring occasionally, about 5 minutes. Add the garlic and saute, stirring, one minute. Add the spinach to the pan and cook until wilted, about 2 minutes, stirring often.", 
+            "Add the cooked tortellini to the pan with the spinach and onion. Toss with Parmesan cheese, pine nuts, salt and pepper, and a little more olive oil, if desired. Pasta can be served warm or chilled."
+        ],
+        "idO" : "moreTotel",
+        "button": {
+            "id":"tortenelli",
+            "name":"tortenelli",
+            "class":"btnMoreTortenelli btnMore",
+            "value":"More.."
+        }
+    },
+    {
+        "categorys":{
+            "categoryId":2
+        },
+        "recepieName":"Spinach and Quinoa Salad with Apple and Pecans",
+        "img": {
+            "src":"assets/img/food/spinach-quinoa-salad.jpg",
+            "alt" :"Spinach and Quinoa Salad with Apple and Pecans"
+        },
+        "shortDescription":"This Spinach and Quinoa Salad with Apple and Pecans is my favorite fall salad! It works both as a side dish and a light lunch.",
+        "ingredients":["½ cup uncooked quinoa", "½ cup raw pecans", "6 cups fresh baby spinach", 
+            "1 large apple, thinly sliced*", "½ cup dried cranberries", "4 ounces goat cheese", "¼ cup lemon juice", 
+            "¼ cup extra virgin olive oil", "2 tablespoons honey", "1 ½ teaspoons Dijon mustard", "¼ teaspoon Kosher salt", 
+            "a bit of black pepper"
+        ],
+        "instructions":["To cook the quinoa, bring 1 cup water to a boil in a small saucepan. Rinse and drain quinoa and add it to the boiling water. Reduce heat to a low simmer, cover, and cook for 12-15 minutes, until water is absorbed. Transfer quinoa to a bowl to cool.", 
+            "Meanwhile, toast the pecans by placing them in a small skillet over medium-low heat. Cook until fragrant, stirring often. Watch pecans carefully as they can go from toasted to burned quickly. Set aside.", 
+            "While the quinoa and pecans cool, make the dressing. Whisk together all dressing ingredients until well combined. Set aside.", 
+            "To assemble the salad, place the spinach in a large bowl. Add the cooled quinoa, apple slices, cranberries, and toasted pecans. Crumble on the goat cheese. When ready to serve the salad, toss with dressing and serve."
+        ],
+        "notes":[{
+            "note1":"If not serving salad immediately, toss the apple slices with a little lemon juice. Add dressing to salad right before serving."
+             }
+        ],
+        "idO" : "moreSpinach",
+        "button": {
+            "id":"spinachAndQuinoa",
+            "name":"spinachAndQuinoa",
+            "class":"btnMoreSpinachAndQuinoa btnMore",
+            "value":"More.."
+        }
+    },
+    {
+        "categorys":{
+            "categoryId":2
+        },
+        "recepieName":"Kale Quinoa Salad with Blueberries",
+        "img": {
+            "src":"assets/img/food/bluberry.jpg",
+            "alt" :"Kale Quinoa Salad with Blueberries"
+        },
+        "shortDescription":"This Kale Quinoa Salad with Blueberries packs a nutritional punch! Quinoa, blueberries, and avocado bring lots of flavor to this healthy make ahead lunch.",
+        "ingredients":["1 cup quinoa", "1 large bunch (about 6 cups) kale, tough stems removed and chopped", "15 ounce can chickpeas, rinsed and drained (optional)",
+            "1 cup blueberries", "4 ounces goat cheese, crumbled", "½ cup sliced almonds", "1 avocado, peeled, pitted, and chopped",
+            "¼ cup extra virgin olive oil", "¼ cup lemon juice", "2 tablespoons honey", "1 ½ teaspoons Dijon mustard", 
+            "¼ teaspoon Kosher salt", "a bit of black pepper"
+        ],
+        "instructions":["Rinse and drain the quinoa. Place quinoa and 2 cups water in a small saucepan and bring to a boil. Cover, reduce heat to a low simmer, and cook for about 15 minutes until water is absorbed. Transfer to a large bowl to cool.",
+            "Meanwhile, make the dressing. Whisk together all dressing ingredients in a large salad bowl. Add the kale and, using your hands, toss it with the dressing.",
+            "Once the quinoa is cool, add it to the bowl with the kale, along with the chickpeas (if using), blueberries, goat cheese, almonds, and avocado. Toss gently to combine. Serve."
+
+        ],
+        "idO" : "moreKale",
+        "button": {
+            "id":"kaleSalad",
+            "name":"kaleSalad",
+            "class":"btnMoreKaleSalad btnMore",
+            "value":"More.."
+        }
+    },
+    {
+        "categorys":{
+            "categoryId":2
+        },
+        "recepieName":"Mason Jar Broccoli Salads with Kale and Apple",
+        "img": {
+            "src":"assets/img/food/jarSalad.jpg",
+            "alt" :"Mason Jar Broccoli Salads with Kale and Apple"
+        },
+        "shortDescription":"These easy vegetarian Mason Jar Broccoli Salads with Kale and Apple are a yummy make ahead lunch option!",
+        "ingredients":["¾ cup plain Greek yogurt", "2 tablespoons honey", "1 ½ tablespoons apple cider vinegar",
+            "1 tablespoon lemon juice", "1 tablespoon water", "2 pinches salt", "a pinch of black pepper", 
+            "1 teaspoon poppy seeds", "1 medium apple, cut into ½-inch pieces", "2 teaspoons lemon juice",
+            "3 cups chopped broccoli florets", "15 ounce can chickpeas, rinsed and drained", "1 yellow bell pepper, chopped",
+            "¼ cup chopped red onion", "2 cups chopped kale", "¼ cup sunflower seeds"
+        ],
+        "instructions":["Whisk together all dressing ingredients. Divide dressing evenly between four 16-ounce mason jars.",
+            "Place apple pieces in a bowl and toss with 2 teaspoons of lemon juice. (This helps to prevent the apple from browning.) Set aside.",
+            "Layer the rest of the salad ingredients in the mason jars, in this order: broccoli, chickpeas, bell pepper, onion, apple, kale, sunflower seeds.",
+            "Place a lid on each jar. Store salads in the refrigerator for up to 3 days. When you are ready to eat the salad, shake it up in the jar to mix in the dressing. Then you can either eat the salad straight from the jar, or pour it into a bowl. Enjoy!"
+
+        ],
+        "idO" : "moreBroc",
+        "button": {
+            "id":"broccoliKaleAndApple",
+            "name":"broccoliKaleAndApple",
+            "class":"btnMoreBroccoliKaleAndApple btnMore",
+            "value":"More.."
+        }
+    },
+    {
+        "categorys":{
+            "categoryId":4
+        },
+        "recepieName":"Southwest Quinoa Salad",
+        "img": {
+            "src":"assets/img/food/southwest-quinoa-salad.jpg",
+            "alt" :"Southwest Quinoa Salad"
+        },
+        "shortDescription":"A healthy Southwest Quinoa Salad with zesty lime vinaigrette. This cold quinoa salad can be made ahead for meal prep lunches or dinners.",
+        "ingredients":["2 teaspoons olive oil", "2 cloves garlic minced", "1 cup quinoa well rinsed and drained",
+            "1 3/4 cups low sodium vegetable broth or water", "1 cup canned corn drained", "15 ounce can black beans rinsed and drained",
+            "1 red bell pepper chopped", "4 green onions sliced", "2 tablespoons minced fresh cilantro",
+            "3 tablespoons fresh lime juice", "2 tablespoons olive oil", "1 tablespoon honey", "1 teaspoon chili powder",
+            "1/2 teaspoon cumin", "salt and pepper to taste"
+        ],
+        "instructions":["Heat the 2 teaspoons olive oil in a medium saucepan over medium heat. Add the garlic and saute until fragrant, stirring, about 1 minute. Add the quinoa and vegetable broth (or water) and bring to a boil. Reduce the heat, cover, and simmer until the liquid has been absorbed, about 12-16 minutes. Remove from the heat.",
+            "While the quinoa cooks, prepare the lime vinaigrette. In a small bowl or jar, combine the dressing ingredients. Whisk (or shake in a jar with a lid) until well combined.",
+            "Transfer the cooked quinoa to a large bowl and stir in the corn, black beans, bell pepper, green onions and cilantro. Add the dressing and stir gently to combine. Taste and adjust seasonings as necessary.",
+            "Serve salad warm or cold, with guacamole or sliced avocado if desired."
+
+        ],
+        "notes":[{
+            "note1":"Quinoa salad can be stored for 3-4 days in the refrigerator."
+             }
+        ],
+        "idO" : "moreQuinoa",
+        "button": {
+            "id":"southwestQuinoaSalad",
+            "name":"southwestQuinoaSalad",
+            "class":"btnMoreSouthwestQuinoaSalad btnMore",
+            "value":"More.."
+        }
+    },
+    {
+        "categorys":{
+            "categoryId":4
+        },
+        "recepieName":"Slow Cooker BBQ Pulled Pork Recipe",
+        "img": {
+            "src":"assets/img/food/slow-cooker-pulled-pork.jpg",
+            "alt" :"Slow Cooker BBQ Pulled Pork Recipe"
+        },
+        "shortDescription":"The best slow cooker BBQ pulled pork recipe! Tender and flavorful pulled pork is so easy to make in your crockpot. Perfect for busy days.",
+        "ingredients":["2.5 pounds pork tenderloin or boneless pork shoulder/pork butt", "1 cup BBQ sauce",
+            "1 tablespoon apple cider vinegar", "1 teaspoon chili powder", "1 teaspoon garlic powder", 
+            "1/2 teaspoon salt", "1/2 teaspoon black pepper"
+        ],
+        "instructions":["Place pork in bottom of slow cooker. Add the BBQ sauce and apple cider vinegar.",
+            "Sprinkle the chili powder, garlic powder, salt and pepper over the pork.",
+            "Cover and cook on low for 8-9 hours or high for 5-6 hours, until the pork shreds easily.",
+            "Remove pork to a cutting board and let rest for 10 minutes.",
+            "Shred pork and serve on burger buns for sandwiches, or in tacos, quesadillas, nachos or lettuce wraps."
+
+        ],
+        "idO" : "morePork",
+        "button": {
+            "id":"pork",
+            "name":"pork",
+            "class":"btnMorePork btnMore",
+            "value":"More.."
+        }
+    },
+    {
+        "categorys":{
+            "categoryId":4
+        },
+        "recepieName":"White Chicken Chili",
+        "img": {
+            "src":"assets/img/food/white-chicken-chili.jpg",
+            "alt" :"White Chicken Chili"
+        },
+        "shortDescription":"A big bowl of this White Chicken Chili is just what you need after a long day!",
+        "ingredients":["1 tablespoon olive oil", "½ onion, diced", "½ jalapeño (seeds removed), minced",
+            "1 pound boneless, skinless chicken breasts, cut into 1-inch pieces", "1 garlic clove, minced",
+            "1 teaspoon chili powder", "1 teaspoon ground cumin", "½ teaspoon salt (plus more to taste)",
+            "¼ teaspoon cayenne pepper", "½ cup frozen corn kernels (no need to thaw)",
+             "Two 15-ounce cans white beans (such as Great Northern or cannellini), drained and rinsed",
+             "1¾ cups chicken broth, store bought or homemade", "¼ cup heavy cream",
+             "Optional Toppings: chopped cilantro, sour cream, grated Monterey Jack cheese, diced avocado, and/or corn tortilla strips"
+        ],
+        "instructions":["In a medium soup pot, heat the olive oil over medium heat. Add the onion and jalapeño and cook, stirring, until the onion has softened, 2 to 3 minutes.",
+            "Add the chicken and cook, stirring occasionally, until it is lightly browned on the outside and no longer pink on the inside (add more olive oil if the pot starts to dry out), 4 to 5 minutes.",
+            "Toss the minced garlic and spices into the pot and turn a few times to coat the chicken evenly. Add the corn, beans, and chicken broth and bring to a boil. Reduce the heat to low and simmer, about 20 minutes.",
+            "Break up some of the beans with the back of a wooden spoon to help thicken the chili. Stir in the cream, garnish with the desired toppings, and serve!"
+
+        ],
+        "idO" : "moreChicken",
+        "button": {
+            "id":"chickenChill",
+            "name":"chickenChill",
+            "class":"btnMoreChickenChill btnMore",
+            "value":"More.."
+        }
+    },
+    {
+        "categorys":{
+            "categoryId":4
+        },
+        "recepieName":"Pear, Feta and Walnut Pizza",
+        "img": {
+            "src":"assets/img/food/pear-feta-and-walnut-pizza.jpg",
+            "alt" :"Pear, Feta and Walnut Pizza"
+        },
+        "shortDescription":"This Pear, Feta and Walnut Pizza is not your ordinary pizza. The combination of sweet pears, tangy feta and toasty walnuts is out of this world delicious!",
+        "ingredients":["1 ball pizza dough", "extra virgin olive oil", "6 ounces (1½ cups) grated mozzarella cheese",
+            "1 medium pear, cored and thinly sliced (bosc or any type you prefer)", "1-2 ounces feta cheese crumbles",
+            "⅓ cup chopped walnuts", "1 teaspoon chopped fresh chives"
+        ],
+        "instructions":["Place a pizza stone in a 500 degree oven to preheat for at least 30 minutes.",
+            "Meanwhile, roll out pizza dough into a 12 to 14-inch round and place on a parchment-lined baking sheet. Lightly brush dough with a little bit of olive oil. Sprinkle on the mozzarella cheese.",
+            "Arrange the pear slices on top of the cheese; top with feta and walnuts.",
+            "Reduce oven temperature to 425 degrees F. Slide the parchment and pizza onto the preheated pizza stone in the oven. Bake pizza for 9-12 minutes, until cheese and crust are lightly golden brown. Let pizza stand for 5 minutes; sprinkle on chives, slice and serve."
+         ],
+         "idO" : "morePizza",
+         "button": {
+            "id":"pizza",
+            "name":"pizza",
+            "class":"btnMorePizza btnMore",
+            "value":"More.."
+        }
+    }
+
+
+
+
+]

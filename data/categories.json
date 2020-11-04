@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "name":"Breakfast",
+        "numberOfRecepies":5
+    },
+    {
+        "id":2,
+        "name":"Brunch",
+        "numberOfRecepies":3
+    },
+    {
+        "id":3,
+        "name":"Lunch",
+        "numberOfRecepies":4
+    },
+    {
+        "id":4,
+        "name":"Dinner",
+        "numberOfRecepies":4
+    }
+
+]

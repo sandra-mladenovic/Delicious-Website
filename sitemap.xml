@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://delicious.byethost5.com//sitemap.xml">
+<url>
+	<loc>http://delicious.byethost5.com/</loc>
+	<lastmod>2019.1.07.</lastmod>
+	<changefreq>daily</changefreq>
+	<priority>1</priority>
+</url>
+<url>
+	<loc>http://delicious.byethost5.com/recepies.html</loc>
+	<lastmod>2019.1.07.</lastmod>
+	<changefreq>weekly</changefreq>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>http://delicious.byethost5.com/favourites.html</loc>
+	<lastmod>2019.1.07</lastmod>
+	<changefreq>yearly</changefreq>
+	<priority>0.5</priority>
+</url>
+</urlset>

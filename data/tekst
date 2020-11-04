@@ -1,0 +1,127 @@
+$(document).ready(function(){
+  $('.ReadMore').click(function(e){ // Posto koristimo biblioteku jQuery za dohvatanje elementa i dodavanja dogadjaja, ne moramo praviti onaj suvisni korak prolaska kroz niz elemenata koji imaju klasu ReadMore. Da se razumemo to je svakako niz bez obzira sto smo mi taj element dohvatili preko jQuery-ja ( $() ), ali jQuery biblioteka sav taj 'prljav' posao radi za nas tako sto ona prvo, pre nego sto pokusa da dodeli dogadjaj dohvacenom elementu, proveri da li je on tipa HTMLCollection i ako jeste ubaci ga u petlju i svakom njegovom pojedinacnom elementu dodeli dogadjaj, na slican nacin kao sto smo i mi to uradili u gornjem primeru.
+  e.preventDefault();
+  var $sledeciPTag = $(this).next(); // Funkcija next() jQuery-ja trazi sledeci element u DOM-u, slicno nextElementSibling metodi. Ime promenljive pocinje znakom $ zbog konvencije da bi nam samim svojim imenom rekla da se unutar nje nalazi objekat 'upakovan' u jQuery.
+
+  $sledeciPTag.slideToggle(); 
+});
+});
+
+//ispis menija
+window.onload = function(){
+  $.ajax({
+      url: "data/navigation.json",
+      data:"get",
+      dataType:"json",
+      success: function(data){
+          navBar(data);
+      },
+      error: function(error){
+          console.log(error);
+      }
+  });
+  function navBar(data){
+      logNavBar = "";
+      data.forEach(element =>{
+          logNavBar += `
+              <li>
+                   <a class="page-scroll" href ="${element.href}">${element.text}</a>
+              </li>
+          `;
+      });
+      if(document.getElementById("nav") != null)
+      document.getElementById("nav").innerHTML = logNavBar;
+  }
+function main() {
+
+(function () {
+   'use strict';
+   
+  	$('a.page-scroll').click(function() {
+        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+          var target = $(this.hash);
+          target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+          if (target.length) {
+            $('html,body').animate({
+              scrollTop: target.offset().top - 40
+            }, 900);
+            return false;
+          }
+        }
+      });
+      $.ajax({
+        url: "data/recepies.json",
+        data:"get",
+        dataType:"json",
+        success: function(data){
+            getRecepies(data);
+        },
+        error: function(error){
+            console.log(error);
+        }
+    });
+    function getRecepies(data){
+        let recepies = "";
+        for (let d of data){
+            recepies += `
+            <div class="col-xs-12 col-sm-6"> 
+        <div class="features-item">
+            <h3>${d.recepieName}</h3>
+          <img src="${d.img.src}" class="img-responsive" width="300px" height="350px" alt="">
+          <p>${d.shortDescription}</p>
+          <a id="${d.idO}" class="btn btn-custom btn-lg ReadMore">Read more</a>
+          
+          </div></div>
+          
+            `;
+    }
+    if(document.getElementById("blockRecepies") != null)
+    document.getElementById("blockRecepies").innerHTML = recepies;
+} 
+    function obrada(ingredients){
+        let prikazi ="<ul>";
+        for(var i = 0; i<ingredients.length; i++){
+            prikazi +="<li>" + ingredients[i] + "</li>";
+        }
+        prikazi += "</ul>";
+        return prikazi;
+    }
+    function obradaInstr(instructions){
+        let prikazi ="<ol>";
+        for(var i = 0; i<instructions.length; i++){
+            prikazi +="<li>" + instructions[i] + "</li>";
+        }
+        prikazi += "</ol>";
+        return prikazi;
+    }
+	
+    // Show Menu on Book
+    $(window).bind('scroll', function() {
+        var navHeight = $(window).height() - 600;
+        if ($(window).scrollTop() > navHeight) {
+            $('.navbar-default').addClass('on');
+        } else {
+            $('.navbar-default').removeClass('on');
+        }
+    });
+
+    $('body').scrollspy({ 
+        target: '.navbar-default',
+        offset: 80
+    });
+
+	// Hide nav on click
+  $(".navbar-nav li a").click(function (event) {
+    // check if window is small enough so dropdown is created
+    var toggle = $(".navbar-toggle").is(":visible");
+    if (toggle) {
+      $(".navbar-collapse").collapse('hide');
+    }
+  });
+
+}());
+
+
+}
+main();
+}
